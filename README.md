@@ -14,9 +14,9 @@ Determine winner of the election based on popular vote.
 ## Election-Audit Results: 
 
 
-###369,711 were cast in this congressional election?
+### 369,711 were cast in this congressional election?
 
-###County Breakdown:
+### County Breakdown:
 Jefferson: 10.5% (38,855)
 
 Denver: 82.8% (306,055)
