@@ -47,7 +47,7 @@ Data Source: election_results.csv
 Software: Python 3.7, Visual Studio Code
 
 
-##Proposal
+## Proposal
 This code script can be easily modified to be used in an any upcoming election.
 
 Please see examples below:
